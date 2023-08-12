@@ -1,1 +1,1 @@
-Nesse projeto foi feito com o intuito de praticar e demonstrar meus avanços com o javascript, foi usado o método de classe e função construtoras para criar um formúlario com suas devidas validações. Usei também um método de máscara para o campo do CPF.
+Nesse projeto foi feito com o intuito de praticar e demonstrar meus avanços com o javascript, foi usado o método de classe e funções construtoras para criar um formúlario com suas devidas validações. Usei também um método de máscara para o campo do CPF.
